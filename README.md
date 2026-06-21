@@ -157,7 +157,7 @@ Authors
 
 Name: Imram Chernor Sesay, Juel Banard, Fanta Marion Bangura.
 
-Course: Principles of Structured Programming
+Module: Principles of Structured Programming
 
 Institution: LUCT Limkokwing university of create Technology 
 
