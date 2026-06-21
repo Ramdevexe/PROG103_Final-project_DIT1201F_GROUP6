@@ -155,7 +155,7 @@ The Farmer Inventory Management System provides a practical digital solution for
 
 Authors
 
-Name: Imram Chernor Sesay, Juel Banard, Fanta Marion Bangura.
+Name: Imram Chernor Sesay, Juel Bernard Lawson, Fanta Marion Bangura.
 
 Module: Principles of Structured Programming
 
