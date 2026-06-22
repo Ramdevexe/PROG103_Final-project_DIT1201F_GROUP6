@@ -134,7 +134,7 @@ def registration_window():
 
     age_combo = ttk.Combobox(
         form_frame,
-        values=[str(range(18, 100))],
+        values=list(range(18, 100)),
         state="readonly",
         width=27
     )
